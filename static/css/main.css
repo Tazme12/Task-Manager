@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    font-family: 'helvetica';
+}
+
+table {
+    width: 80%;
+    border-collapse: collapse;
+    margin: 20px auto;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
