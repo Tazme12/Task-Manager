@@ -22,5 +22,5 @@ pip install .
 
 Run the CLI app with:<br>
 ```bash
-full-stack-task-manager
+full-stack-task-manager 
 ```
